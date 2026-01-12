@@ -12,7 +12,7 @@ Felix Bauer, Julian Sehne, Steffen Schwab, Ivan Zelin
 | Presentation | 25%         | 25%          | 25%            | 25%        |
 
 We presented the key ideas
-from [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Our presentation slides can be found [here](./<Paper Presentation Attention.pdf>).
+from [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Our presentation slides can be found [here](<Paper Presentation Attention.pdf>).
 
 ## Portfolio 2 - Class activities
 
