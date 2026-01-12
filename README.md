@@ -16,11 +16,11 @@ from [Neural Machine Translation by Jointly Learning to Align and Translate](htt
 
 ## Portfolio 2 - Class activities
 
-| Contributors         | Felix Bauer | Julian Sehne | Steffen Schwab | Ivan Zelin |
-|----------------------|-------------|--------------|----------------|------------|
-| Huggingface tutorial | 33%         | 33%          | 33%            | 0%         |
-| Poet                 | 33%         | 33%          | 33%            | 0%         |
-| Hackathon            | Yes         | No           | No             | No         |
+| Contributors         | Felix Bauer | Julian Sehne                 | Steffen Schwab               | Ivan Zelin |
+|----------------------|-------------|------------------------------|------------------------------|------------|
+| Huggingface tutorial | 33%         | 33%                          | 33%                          | 0%         |
+| Poet                 | 33%         | 33%                          | 33%                          | 0%         |
+| Hackathon            | Yes         | No (Couldn't register... :/) | No (Couldn't register... :/) | No         |
 
 ### 1) [Huggingface tutorial](<Huggingface tutorial>)
 
