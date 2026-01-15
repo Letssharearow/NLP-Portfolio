@@ -20,7 +20,7 @@ from [Neural Machine Translation by Jointly Learning to Align and Translate](htt
 |----------------------|-------------|------------------------------|------------------------------|------------|
 | Huggingface tutorial | 33%         | 33%                          | 33%                          | 0%         |
 | Poet                 | 33%         | 33%                          | 33%                          | 0%         |
-| Hackathon            | Yes         | No (Couldn't register... :/) | No (Couldn't register... :/) | No         |
+| Hackathon            | Yes         | No (Couldn't register... :/) | No (Couldn't register... :/) | Networked  |
 
 ### 1) [Huggingface tutorial](<Huggingface tutorial>)
 
