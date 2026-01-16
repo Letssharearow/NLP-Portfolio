@@ -41,7 +41,7 @@ We finetuned a [distilGPT](https://huggingface.co/distilbert/distilgpt2) model t
 1. Generate training data: For each poem we create training data by sampling 3 random nouns and prepending them as a prompt: `Words: <word1>, <word2>, <word3>\nPoem:\n<poem>`
 1. Fine-tune model:
     1. Stage 1: Fine-tune on tgdivy/poetry-foundation-poems to learn general poetic structure and style
-    1. Stage 2: nitialize from the Stage-1 model and fine-tune on merve/poetry to improve overall poem quality
+    1. Stage 2: Initialize from the Stage-1 model and fine-tune on merve/poetry to improve overall poem quality
 
 #### Example result
 ```
